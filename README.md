@@ -14,8 +14,8 @@ I like Data Science, AI, and building random shit that sometimes turns out to be
 I’m usually learning something new, breaking something, fixing it, and then pretending I knew what I was doing all along.  
 Currently obsessed with data, AI, and making cool things on the internet.
 
-🔭 &nbsp;I'm currently working on **kaggle competition**  
-🌱 &nbsp;I'm currently learning **database**  
+🔭 &nbsp;I'm currently working on **Project development**  
+🌱 &nbsp;I'm currently learning **machine learning**  
 😄 &nbsp;Pronouns: **he/him**
 
 ### 🛠️ Tech Stack
